@@ -38,7 +38,7 @@ jobs:
 
 
       - name: Clone AngryPancake/vps PUBLIC repository
-        uses: AngryPancake/vps
+        uses: AngryPancake/vps@main
         with:
           owner: 'AngryPancake'
           repository: 'vps'
