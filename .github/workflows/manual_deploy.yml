@@ -24,7 +24,8 @@ jobs:
     steps:
       
       - name: Clone supercharge website repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        path: ~/vps
   
       # This part here is cloning a second repository
       # While cloning the repository:
@@ -52,5 +53,3 @@ jobs:
 #           pwd
 #           ls -la
 #           echo "CLONED REPO"
-#           cd poc-github-actions
-#           ls -la
