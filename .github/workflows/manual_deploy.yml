@@ -38,7 +38,7 @@ jobs:
           ls -la
           echo "CLONED REPO"
           mkdir -pv ~/vps
-          cp * ~/vps
+          cp -r * ~/vps
 
 
 #       - name: Clone AngryPancake/vps PUBLIC repository
