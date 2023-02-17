@@ -23,21 +23,27 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       
-      - name: Clone AngryPancake/vps PUBLIC repository
+      - name: Clone supercharge website repository
+        uses: actions/checkout@v2
+  
+      # This part here is cloning a second repository
+      # While cloning the repository:
+      #   - it clones the repo into the given `path`
+      #   - it checks out the branch defined at `ref`
+      - name: Clone supercharge docs repository
         uses: AngryPancake/vps@main
         with:
-          owner: 'AngryPancake'
-          repository: 'vps'
-      
+          repository: AngryPancake/vps
+          path: ~/vps
+
       - name: Access cloned repository content
         run: |
           echo "ROOT"
+          pwd
           ls -la
           echo "CLONED REPO"
           cd poc-github-actions
           ls -la
-
-
 
 
 #       - name: Clone AngryPancake/vps PUBLIC repository
