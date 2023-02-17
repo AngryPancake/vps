@@ -37,16 +37,16 @@ jobs:
 
 
 
-      - name: Clone AngryPancake/vps PUBLIC repository
-        uses: AngryPancake/vps@main
-        with:
-          owner: 'AngryPancake'
-          repository: 'vps'
-      - name: Access cloned repository content
-        run: |
-          echo "ROOT"
-          pwd
-          ls -la
-          echo "CLONED REPO"
-          cd poc-github-actions
-          ls -la
+#       - name: Clone AngryPancake/vps PUBLIC repository
+#         uses: AngryPancake/vps@main
+#         with:
+#           owner: 'AngryPancake'
+#           repository: 'vps'
+#       - name: Access cloned repository content
+#         run: |
+#           echo "ROOT"
+#           pwd
+#           ls -la
+#           echo "CLONED REPO"
+#           cd poc-github-actions
+#           ls -la
