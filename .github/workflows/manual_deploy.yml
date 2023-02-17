@@ -30,11 +30,6 @@ jobs:
       # While cloning the repository:
       #   - it clones the repo into the given `path`
       #   - it checks out the branch defined at `ref`
-      - name: Clone supercharge docs repository
-        uses: AngryPancake/vps@main
-        with:
-          repository: AngryPancake/vps
-          path: ~/vps
 
       - name: Access cloned repository content
         run: |
