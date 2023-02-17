@@ -39,8 +39,6 @@ jobs:
           pwd
           ls -la
           echo "CLONED REPO"
-          cd poc-github-actions
-          ls -la
 
 
 #       - name: Clone AngryPancake/vps PUBLIC repository
