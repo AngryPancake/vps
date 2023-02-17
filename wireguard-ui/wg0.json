@@ -1,0 +1,79 @@
+{
+  "server": {
+    "privateKey": "+J65UU+s++X6Bc63/tyr2+KIc8eGnUqgQCoCUglOvlc=",
+    "publicKey": "oWOpPRBKsljcxEJFngkT7WPvgouh39CPvph1NCdHEwc=",
+    "address": "10.8.0.1"
+  },
+  "clients": {
+    "06dab5f7-eb57-413a-bdc8-1646ca5beb1e": {
+      "name": "snv-poco",
+      "address": "10.8.0.2",
+      "privateKey": "ONMF5lYTsVHRxsy996gll2IFzPb2xIeIn5L/mCfBXVo=",
+      "publicKey": "B6OmZKcbopxyL904Rg64BSQLbJHrciHYUpSuPZpPMzA=",
+      "preSharedKey": "tgb+Wn5uhNf38zqpCkf8Jjb5WJ7f7uNVsJ/91RKZHNE=",
+      "createdAt": "2023-01-05T08:15:35.713Z",
+      "updatedAt": "2023-01-05T08:15:35.713Z",
+      "enabled": true
+    },
+    "2d1e1de2-f03d-4dc7-a5c6-8c3f6a750757": {
+      "name": "sea-iphone",
+      "address": "10.8.0.3",
+      "privateKey": "CJE2CO5V90M/Y2agPg5qh4m22AvpIHQIubtszafcL1A=",
+      "publicKey": "SsHkc2vduoW4dB29FotZo8O4mkSWLOBaR3y6X2c1cV0=",
+      "preSharedKey": "BYuU9ibPPYt3faTajese7zLaKirkgTLbFMvowDfcv7M=",
+      "createdAt": "2023-01-05T08:16:43.908Z",
+      "updatedAt": "2023-01-05T08:16:43.908Z",
+      "enabled": true
+    },
+    "d9afeff5-e6c7-49a1-bb44-cf8bd28c824f": {
+      "name": "sea-ipad",
+      "address": "10.8.0.4",
+      "privateKey": "qF0+FjSz43WXQvWg7ifQJXU31Ql/XcTSV0whw+JDkkA=",
+      "publicKey": "sgkOrXZQ8y1DjN9YKw8lL675SIHSC21sTBOSQShXmyU=",
+      "preSharedKey": "8svgZC5jikz6YojAs5nJNwv4zdw8I352U0/H2nFWBeo=",
+      "createdAt": "2023-01-05T08:16:49.771Z",
+      "updatedAt": "2023-01-05T08:16:49.771Z",
+      "enabled": true
+    },
+    "ec3dae6d-40d6-4968-8d75-c46252f90e0f": {
+      "name": "sea-laptop",
+      "address": "10.8.0.5",
+      "privateKey": "OFQ2dpIfhlcl5huiazphaQu6tyAulmDc+SKCTKr7nFU=",
+      "publicKey": "nhuz9tkvSCLZNXxJBOR3ijFlMjsmDFjVF1gRKffMkEs=",
+      "preSharedKey": "+LMFdqQoHeArEvEx1sA+MyYCrEA6WWqacGjvENruzKA=",
+      "createdAt": "2023-01-05T08:16:57.992Z",
+      "updatedAt": "2023-01-05T08:16:57.992Z",
+      "enabled": true
+    },
+    "2853cfa0-fd56-4c9f-9af3-e6549269abe2": {
+      "name": "snv-pc",
+      "address": "10.8.0.6",
+      "privateKey": "MN9Kqcrs0FCs3CT0utoy1tE4G7UpJmY2wsu++MHXkWA=",
+      "publicKey": "BoEi+mV/QXBSk7u6ptrxOpj9g4pNsL6bzFWkpXcQeyM=",
+      "preSharedKey": "sjRCyCyQJ40b6SOWsezKdlcFpa0Q9blcybFSjtkcJlo=",
+      "createdAt": "2023-01-05T08:17:11.008Z",
+      "updatedAt": "2023-01-05T08:17:11.008Z",
+      "enabled": true
+    },
+    "ca2c2f5a-7aa5-4504-9c9d-4bfe0e61b65f": {
+      "name": "sdr-iphone",
+      "address": "10.8.0.7",
+      "privateKey": "EC4BTDVuEePwixresLn3Dvukh2XWXbiwbKC4T9MQ0GI=",
+      "publicKey": "tVK10Agz/wl3UlccXg+ARTddBEwO/0zOWePA9UqYShY=",
+      "preSharedKey": "xGsb759P6brF9fXh66aJpF8eD983JgtYCPZGNk2Hkvg=",
+      "createdAt": "2023-01-05T08:17:25.835Z",
+      "updatedAt": "2023-01-05T08:17:25.835Z",
+      "enabled": true
+    },
+    "cf4faf58-6033-4eb1-94d4-8112004b61fb": {
+      "name": "snv-laptop",
+      "address": "10.8.0.8",
+      "privateKey": "6LMO+R45L3QlZ98KUvHQKUxOkF10cNgatm2Ws8Uy32Q=",
+      "publicKey": "K4tP1lJkKE1xseecI118LM1x9SfkiW8AioXN/nFZYj4=",
+      "preSharedKey": "LxmwX3UWYGBG8oFkBkyOgNlAo3eCsTnt27cNLJsRKyk=",
+      "createdAt": "2023-01-05T08:43:35.132Z",
+      "updatedAt": "2023-01-05T08:43:35.132Z",
+      "enabled": true
+    }
+  }
+}
