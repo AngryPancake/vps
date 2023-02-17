@@ -25,7 +25,7 @@ jobs:
       
       - name: Clone supercharge website repository
         uses: actions/checkout@v3
-        path: ~/vps
+          path: ~/vps
   
       # This part here is cloning a second repository
       # While cloning the repository:
